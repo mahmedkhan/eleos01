@@ -1,0 +1,5 @@
+gunicorn==20.0.4
+Flask==1.1.1
+Pandas==1.1.4
+Numpy==1.19.4
+Scikit-learn===0.23.2

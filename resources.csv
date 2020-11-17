@@ -1,0 +1,45 @@
+r_id,name,url,tags,vote_average,vote_count
+1,Headspace,https://www.headspace.com/,"[mindfulness, meditation, sleep, stress, anxiety, relax, breathing, calm, healthy]",5,343
+2,Samaritans Website ,https://www.samaritans.org/,"[information, suicide, suicidal, kill, harm, die] ",4,1964
+3,NHS Suicide Help,https://www.nhs.uk/conditions/suicide/,"[information, suicide]",5,5787
+4,NHS Self Harm Help,https://www.nhs.uk/conditions/self-harm/,"[information, selfharm]",5,1575
+5,Samaritans Support  ,https://www.samaritans.org/how-we-can-help/contact-samaritan/,"[helpline, phoneline, chat, suicide, suicidal, harm, die] ",4,5868
+6,Young Minds: Grief and Loss,https://youngminds.org.uk/find-help/feelings-and-symptoms/grief-and-loss/,"[grief, loss, bereavement, grieve, death]",2,3031
+7,NHS: Bereavement and Young People,https://www.nhs.uk/conditions/stress-anxiety-depression/bereavement-and-young-people/,"[grief, loss, bereavement, grieve, death]",3,4093
+8,Grief Encounter Phoneline ,https://www.griefencounter.org.uk/,"[helpline, grief, loss, bereavement, grieve, death]",3,5281
+9,Young Minds: Bullying ,https://youngminds.org.uk/find-help/feelings-and-symptoms/bullying/,"[information, bullying, cyberbullying, bully, cyberbully, torment]",5,5943
+10,Childline,https://www.childline.org.uk/get-support/1-2-1-counsellor-chat/,"[helpline, chat, phoneline, call, abuse, bullying, domestic]",2,3522
+11,The Mix: Support ,https://www.themix.org.uk/get-support,"[drug, drugs, alcohol, drink, drunk]",4,4404
+12,NSPCC: Domestic Abuse ,https://www.nspcc.org.uk/what-is-child-abuse/types-of-abuse/domestic-abuse/,"[information, abuse]",4,4147
+13,NHS: Drugs,https://www.nhs.uk/live-well/healthy-body/drug-addiction-getting-help/,"[information, drugs, alcohol, drunk, high, addiction]",1,545
+14,Young Minds: Drugs and Alcohol ,https://youngminds.org.uk/find-help/looking-after-yourself/drugs-and-alcohol/,"[information, drugs, alcohol, drunk, high, addiction]",4,3061
+15,Childline: Relationships,https://www.childline.org.uk/info-advice/friends-relationships-sex/sex-relationships/relationships/,"[information, sex, sexual, relationships]",3,2373
+16,Kooth,https://www.kooth.com/,"[counselling, anonymous, chat, journal, forums]",5,3934
+17,Family Breakdown,https://hampshirecamhs.nhs.uk/issue/family-breakdown/,"[family, relationships]",5,3241
+18,Wysa,https://www.wysa.io/,"[mindfulness, meditation, stress, chat, therapy, wellness, productivity, relationship, writing, journaling, app]",3,734
+19,Stoic ,https://www.stoicroutine.com/,"[app, journaling, mindfullness, meditation, breathing, mood tracking, reflection, productivity] ",5,5845
+20,MeeTwo ,https://www.meetwo.co.uk/,"[app, forums, counselling, chat]",4,2380
+21,Smiling Mind, https://www.smilingmind.com.au/,"[app, meditation, midndfullness, relax, calm, sleep, breathing, relationships]",2,4791
+22,Grief: Support for Young People ,https://apps.apple.com/gb/app/grief-support-for-young-people/id883195199,"[app, journaling, grief, loss, bereavement, grieve, death]",2,1694
+23,Mind: Relaxation Exercises ,https://www.mind.org.uk/information-support/tips-for-everyday-living/relaxation/relaxation-exercises/#.WUeZAWjys2w,"[information, mindfullness, relaxation, relax, calm]",1,4401
+24,Bullying UK: Mental Health,https://www.bullying.co.uk/advice-for-young-people/bullying-and-your-mental-health/,"[information, bullying, bully, torment]",5,314
+25,For Me ,https://apps.apple.com/gb/app/for-me-app/id1094217440,"[app, chat, forums, counselling, mood tracking, school, exam stress, mental health, self harm] ",4,5474
+26,NHS: Depression in Children and Young People ,https://www.nhs.uk/conditions/stress-anxiety-depression/children-depressed-signs/,"[information, depression, depressed, down]",1,841
+27,Young Minds: Depression ,https://youngminds.org.uk/find-help/conditions/depression/,"[information, depression, down]",3,3047
+28,Calm Harm ,https://calmharm.co.uk/,"[app, self-harm, harm, cut]",3,2572
+29,Stay Alive ,https://apps.apple.com/gb/app/stay-alive/id915458967,"[app, suicide, suicidal, harm, die]",1,3383
+30,My3,https://my3app.org/,"[app, suicide, suicidal, harm, die]",5,529
+31,National Self Harm Network,http://www.nshn.co.uk/,"[forum, chat, self-harm, harm, cut]",5,5868
+32,Code Camp ,https://www.freecodecamp.org/,"[information, computing, computer, coding, code, education, course, online, programming, tutorials]",1,1105
+33,Code Academy ,https://www.codecademy.com/,"[computing, computer, coding, code, education, course, online, progarmming]",1,3617
+34,Young Minds: Self Harm ,https://youngminds.org.uk/find-help/feelings-and-symptoms/self-harm/,"[information, self-harm, harm, cut]",2,475
+35,Student Health App,https://www.nhs.uk/apps-library/student-health-app/,"[app, student, school, health]",3,1609
+36,Mind: Beating Exam Stress,https://www.mind.org.uk/information-support/your-stories/14-ways-to-beat-exam-stress/,"[information, exams, stress, students]",1,2122
+37,Mood Tools ,https://www.moodtools.org/,"[app, depression, down, mood tracking, depressed, journaling]",1,558
+38,Surviving Exams ,https://www.nhs.uk/conditions/stress-anxiety-depression/tips-on-surviving-exams/,"[information, exams, school, students, stress]",4,4597
+39,Catch It ,https://www.nhs.uk/apps-library/catch-it/,"[app, depression, down, mood tracking, depressed, journaling, reflection]",2,326
+40,Flora ,https://flora.appfinca.com/,"[app, focus, productivity, stress, school, exams, students, revision] ",5,5097
+41,My Life,https://my.life/,"[app, students, school, study, calm, breathe, mindfullness, relax, meditation, sleep, calm, exams, stress]",4,5554
+42,NHS: Student Stress,https://www.nhs.uk/conditions/stress-anxiety-depression/student-stress/,"[information, school, stress, students]",2,867
+43,Coder Dojo Club ,https://zen.coderdojo.com/find,"[computing, computer, coding, code, education, club, community, programming]",3,2777
+44,Future Learn Computing Courses,https://www.futurelearn.com/subjects/it-and-computer-science-courses/coding-programming,"[computing, computer, coding, code, education, course, online, programming, tutorials]",3,2975

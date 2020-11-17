@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link href="http://libs.baidu.com/bootstrap/3.0.3/css/bootstrap.min.css" rel="stylesheet">
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script src="http://libs.baidu.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
+    <script type=text/javascript>
+      $(function() {
+          $('#recommend').click(function(){
+            $.ajax({
+              url: '/recommend',
+              data:{
+                inputR: $('#inputR').val(),
+              },
+              dataType: 'JSON',
+              type: 'GET',
+              success: function(data){
+                  $("#recommendation").html(data.recommendation);
+              }
+              });
+           });
+      });
+</script>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <h3 class="text-muted">recommend</h3>
+    </div>
+    <hr/>
+    <div>
+    <p>
+  <input type="text" id='inputR' size="5" name="inputR"> =
+  <span id="recommendation">?</span>
+  <p><button class="btn btn-success" id="recommend">recommend</button>
+    </form>
+    </div>
+  </div>
+</body>
+</html>
